@@ -12,3 +12,5 @@ Other notes about the system will be made on this document as it develops:
     -Every time you take damage you increase your Dying condition by 1.
 
 Spellcasting
+
+Usar SQL lite para database?
