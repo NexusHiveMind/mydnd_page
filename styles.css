@@ -19,6 +19,23 @@ div/*Selector */ {
 
 
 
+/* Proper CSS code starts here */
+
+.user-login {
+    float:right;
+    width: 15%;
+}
+
+.banner{
+    float:left;
+    width: 85%;
+    height: 50px;
+}
+
+.end-of-split-screen {
+    clear:both;
+}
+
 
 a {
     color: burlywood;
