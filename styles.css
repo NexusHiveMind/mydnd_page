@@ -1,0 +1,28 @@
+/* Type selector */
+div/*Selector */ {
+
+}
+
+/* Class selector */
+.class-example {
+    color:red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 136, 0);
+}
+
+/* ID Selector */
+#id-example {
+    background-color: rgb(255, 136, 0);
+}
+
+
+
+
+
+a {
+    color: burlywood;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.473);
+}
