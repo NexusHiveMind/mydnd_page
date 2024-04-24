@@ -1,9 +1,11 @@
-div {
-    color: azure;
+body{
+    background-color: rgba(0, 0, 0, 0.699);
+    font-family: verdana, sans-serif;
+    color: white;
 }
 
-body{
-    background-color: rgba(0, 0, 0, 0.473);
+div {
+    color: azure;
 }
 
 .user-login {
@@ -28,6 +30,10 @@ a {
     color: rgb(231, 177, 107);
 }
 
-button {
-    
+#button {
+    color: black;
+    font-weight: 700;
 }
+
+/* I should try to use less type selectors, see if there is a better alternative
+ to using body, div and a*/
