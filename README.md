@@ -7,8 +7,9 @@ Other notes about the system will be made on this document as it develops:
 +Thematic differences with D&D:
     -No dark Vision Races.
     -No half-races.
-    -3 Actions and a reaction from pathfinder 2e replace Action (2 actions) and movement/bonus action (1 action) from 5e.
+    -3 Actions and a reaction from pathfinder 2e replace Action (2 actions) and movement/bonus action (1 action) and a reaction from 5e.
     -Concentration demands you spend 1 Action point every turn to maintain the spell
+    -Advantage/Disadvantage Rare (it is a difference of +5 statistically)
 
 +DYING
     -Use the exhaustion new rule of One D&D (-1 to all D20 rolls and -1 to their Spell Save DC for each level of exhaustion), but tie it with the wound condition for pathfinder (old rules, not new ones).
@@ -24,6 +25,29 @@ Other notes about the system will be made on this document as it develops:
     -Can Cast Spells up to half of its level
 
 +Armor:
-    -
+    -Resistance (Damage that it can absorb)
+    -Min STR
+    -AC Provided
+
++Character Customization:
+    -Hard Proficiencies (Languages, Armor, Type of Weapon, Tool)
+    -Skills (Awareness, Reaction Time, Athletics, Survival, Feet work, Hand Finesse, Investigation, Lore, Influence, Performance)
+    -Combat Tactics
+    -Talents
+    -Spells
+
++Character Progression:
+    -10 Levels (each level 10XP)
+    -Re-Training: an Activity in Downtime that allows you to change a Combat tactic for another, craft, or try yo learn a spell.
+
++Rest:
+    -Short rest: 4 hs (Regenerate Life and partial resources, keeps Exhaustion at bay from traveling)
+    -Long rest: 12 hs (Regenerate full Life and resources, lowers exhaustion in 1)
+    -Downtime day: 24 hs (Regenerate full life and resources, lowers exhaustion in 1, can do a downtime activity)
+
++Downtime Activities:
+    -Re-train
+    -Craft
+    -Learn a Spell
 
 Usar SQL lite para database?
