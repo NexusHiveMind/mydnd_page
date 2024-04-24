@@ -1,3 +1,4 @@
+/* Types */
 body{
     background-color: rgba(0, 0, 0, 0.699);
     font-family: verdana, sans-serif;
@@ -8,32 +9,45 @@ div {
     color: azure;
 }
 
+a {
+    color: rgb(231, 177, 107);
+}
+
+button {
+    color: rgb(231, 177, 107);
+    background-color: brown;
+    font-weight:bold;
+}
+button:hover{
+   background-color: rgba(96, 130, 243, 0.795);
+}
+
+/* Classes */
 .user-login {
     float:right;
     width: 15%;
     text-align: center;
-    height: 50px;
 }
 
 .banner{
     float:left;
     width: 5%;
     text-align: center;
-    height: 50px;
+}
+
+.characters{
+    float:left;
+    width: 10%;
+    text-align: center;
+    height: 30px;
 }
 
 .end-of-split-screen {
+    height: 10px;
     clear:both;
 }
 
-a {
-    color: rgb(231, 177, 107);
-}
-
-#button {
-    color: black;
-    font-weight: 700;
-}
 
 /* I should try to use less type selectors, see if there is a better alternative
- to using body, div and a*/
+ to using body, div and a,
+ try not to use IDs unless it is something unique*/
