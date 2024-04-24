@@ -17,6 +17,7 @@ button {
     color: rgb(231, 177, 107);
     background-color: brown;
     font-weight:bold;
+    height: auto;
 }
 button:hover{
    background-color: rgba(96, 130, 243, 0.795);
@@ -37,7 +38,7 @@ button:hover{
 
 .characters{
     float:left;
-    width: 10%;
+    width:fit-content;
     text-align: center;
     height: 30px;
 }
