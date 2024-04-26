@@ -1,4 +1,11 @@
 /* Types */
+* {
+    outline: 1px solid red;
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+  }
+
 body{
     background-color: rgba(0, 0, 0, 0.699);
     font-family: verdana, sans-serif;
@@ -24,15 +31,20 @@ button:hover{
 }
 
 /* Classes */
-.user-login {
-    float:right;
-    width: 15%;
+.banner{
+    float:left;
+    margin-left: 1%;
     text-align: center;
 }
 
-.banner{
-    float:left;
-    width: 5%;
+.user-login {
+    float:right;
+    margin-right: 1%;
+    text-align: center;
+}
+.user-register {
+    float:right;
+    margin-right: 5%;
     text-align: center;
 }
 
