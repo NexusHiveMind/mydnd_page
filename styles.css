@@ -31,29 +31,24 @@ button:hover{
 .banner{
     line-height: normal;
     margin-bottom: 15px;
+    width: 100%;
+}
+
+.home,
+.user-login,
+.user-register,
+.characters{
+    text-align: center;
 }
 
 .home {
     float:left;
-    margin-left: 2%;
-    text-align: center;
-}
-
-.user-login {
-    text-align: center;
-    float: right;
-}
-.user-register {
-    margin-right: 10px;
     margin-left: 10px;
-    text-align: center;
-    float: right;
 }
 
-.characters{
-    float:left;
-    width:fit-content;
-    text-align: center;
+.user {
+    margin-right: 10px;
+    float: right;
 }
 
 .end-of-split-screen {
