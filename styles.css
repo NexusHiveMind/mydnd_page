@@ -26,7 +26,6 @@ button {
     color: rgb(231, 177, 107);
     background-color: brown;
     font-weight:bold;
-    height:fit-content;
 }
 button:hover{
    background-color: rgba(96, 130, 243, 0.795);
@@ -34,8 +33,7 @@ button:hover{
 
 /* Classes */
 .banner{
-    display: flex;
-    width: 100%;
+
     line-height: normal;
     margin-bottom: 15px;
 }
@@ -47,14 +45,14 @@ button:hover{
 }
 
 .user-login {
-    margin-right: 5px;
-    margin-left: 55%;
     text-align: center;
+    float: right;
 }
 .user-register {
-    margin-right: 5px;
-    margin-left: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
     text-align: center;
+    float: right;
 }
 
 .characters{
