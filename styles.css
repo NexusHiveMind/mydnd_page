@@ -6,7 +6,7 @@
 }
 
 * {
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
     /* margin: 0;
     padding: 0; */
 }
@@ -15,16 +15,6 @@ body{
     background-color: rgba(0, 0, 0, 0.699);
     font-family: verdana, sans-serif;
     color: white;
-}
-
-div {
-    color: azure;
-}
-
-a {
-    color: rgb(231, 177, 107);
-    padding: 2px;
-    margin: 2px;
 }
 
 button {
