@@ -1,10 +1,15 @@
 /* Types */
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
 * {
-    /* outline: 1px solid red; */
+    outline: 1px solid red;
     /* margin: 0;
     padding: 0; */
-    box-sizing: border-box;
-  }
+}
 
 body{
     background-color: rgba(0, 0, 0, 0.699);
@@ -26,6 +31,7 @@ button {
     color: rgb(231, 177, 107);
     background-color: brown;
     font-weight:bold;
+    font-size: 20px;
 }
 button:hover{
    background-color: rgba(96, 130, 243, 0.795);
@@ -33,7 +39,6 @@ button:hover{
 
 /* Classes */
 .banner{
-
     line-height: normal;
     margin-bottom: 15px;
 }
@@ -62,8 +67,9 @@ button:hover{
 }
 
 .end-of-split-screen {
-    height: 5px;
+    height: 1em;
     clear:both;
+    border-bottom: 1px double rgb(231, 177, 107);
 }
 
 
