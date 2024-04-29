@@ -11,6 +11,10 @@
     padding: 0; */
 }
 
+a{
+    width: fit-content;
+}
+
 body{
     background-color: rgb(82, 82, 82);
     font-family: verdana, sans-serif;
