@@ -93,6 +93,19 @@ button:hover{
     padding-left: 5px;
 }
 
+.character_creation{
+    display: flex;
+    gap: 5px;
+    padding: 0px 10px;
+}
+
+.character_creation > * {
+    border: 2px solid rgb(231, 177, 107);
+    background-color: black;
+    color: white;
+    flex: 1 1 0;
+}
+
 /* I should try to use less type selectors, see if there is a better alternative
  to using body, div and a,
  try not to use IDs unless it is something unique*/
