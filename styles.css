@@ -31,10 +31,6 @@ img{
     padding: 0px 5px;
 }
 
-a{
-    width: fit-content;
-}
-
 ul, 
 ol{
     padding-left: 2.5em;
@@ -46,8 +42,13 @@ button {
     font-weight:bold;
     font-size: 20px;
     padding: 0px 6px;
-    margin: 1px;
+    margin: 2px;
 }
+
+.home button{
+    background-color: rgb(82, 82, 82);
+}
+
 button:hover{
    background-color: rgba(96, 130, 243, 0.795);
 }
@@ -55,37 +56,45 @@ button:hover{
 /* Classes */
 .banner{
     width: 100%;
+    height: 50px;
     position: sticky;
     top: 0%;
-    display: inline-block;
     background-color: rgb(82, 82, 82);
     padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px double rgb(231, 177, 107);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .home,
-.user-login,
-.user-register,
+.user,
 .characters{
-    text-align: center;
+    align-items: center;
 }
 
 .home {
-    float:left;
-    margin-left: 10px;
+    justify-content: flex-start;
+    width: 80%;
+    display: flex;
+    flex-shrink: 0;
 }
 
 .user {
-    margin-right: 10px;
-    float: right;
+    justify-content: flex-end;
+    display: flex;
+    flex-shrink: 0;
 }
 
-.end-of-split-screen {
-    height: 1em;
-    clear:both;
-    border-bottom: 1px double rgb(231, 177, 107);
-    margin-bottom: 10px;
+.characters{
+    justify-content: flex-start;
+    width: 20%;
+    display: flex;
+    flex-shrink: 0;
+    margin-left: 5px;
 }
-
 
 /* I should try to use less type selectors, see if there is a better alternative
  to using body, div and a,
