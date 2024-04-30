@@ -65,8 +65,6 @@ button:hover{
     margin-bottom: 10px;
     border-bottom: 1px double rgb(231, 177, 107);
     display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .home,
@@ -97,6 +95,7 @@ button:hover{
     display: flex;
     gap: 10px;
     padding: 0px 10px;
+    align-items: stretch;
 }
 
 .character_creation > * {
