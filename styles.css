@@ -7,12 +7,8 @@
 
 * {
     /* outline: 1px solid red; */
-    /* margin: 0;
-    padding: 0; */
-}
-
-a{
-    width: fit-content;
+    margin: 0;
+    padding: 0;
 }
 
 body{
@@ -22,11 +18,35 @@ body{
     margin-top: 0px;
 }
 
+h2{
+    margin: 20px 5px;
+}
+
+p{
+    margin: 1em 0em;
+}
+
+p, 
+img{
+    padding: 0px 5px;
+}
+
+a{
+    width: fit-content;
+}
+
+ul, 
+ol{
+    padding-left: 2.5em;
+}
+
 button {
     color: rgb(231, 177, 107);
     background-color: brown;
     font-weight:bold;
     font-size: 20px;
+    padding: 0px 6px;
+    margin: 1px;
 }
 button:hover{
    background-color: rgba(96, 130, 243, 0.795);
@@ -63,6 +83,7 @@ button:hover{
     height: 1em;
     clear:both;
     border-bottom: 1px double rgb(231, 177, 107);
+    margin-bottom: 10px;
 }
 
 
