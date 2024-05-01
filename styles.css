@@ -54,6 +54,14 @@ button:hover{
    background-color: rgba(96, 130, 243, 0.795);
 }
 
+a{
+    text-decoration: none;
+    color: rgb(231, 177, 107);
+    font-size: 20px;
+    background-color: inherit;
+    font-weight: bold;
+}
+
 /* Classes */
 .banner{
     width: 100%;
@@ -61,7 +69,7 @@ button:hover{
     position: sticky;
     top: 0%;
     background-color: rgb(82, 82, 82);
-    padding: 5px 10px 10px;
+    padding: 5px 15px 10px;
     margin-bottom: 10px;
     border-bottom: 1px double rgb(231, 177, 107);
     display: flex;
@@ -77,6 +85,7 @@ button:hover{
     justify-content: flex-start;
     width: 80%;
     display: flex;
+    gap: 20px;
 }
 
 .user {
