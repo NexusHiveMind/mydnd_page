@@ -9,3 +9,32 @@ Web Server old PC? (container inside Ubuntu Server VB)
 Security?
 
 Play music in the background from: https://www.youtube.com/watch?v=d848GzuMtqk&t=3862s
+
+Races
+https://youtu.be/80q0nlDSUCQ?si=5vshu5tvea0yoPnI
+https://www.youtube.com/watch?v=VoAfb3f04mo
+Kobolds
+
+https://youtu.be/JyKFgTYA6Gs?si=Yl0pnbLwDzZiBiUz
+Goblins
+
+https://youtu.be/ahL4VXohPdU?si=DaIzqmJgegeDu7V0
+Orcs
+
+https://youtu.be/P0CMjJf2dTg?si=aflN4a-Rul8ENbby
+Elves
+
+https://youtu.be/y2EnV6wunZY?si=MvYtRvFph0OThk61
+Dwarves
+
+https://youtu.be/K69tbUo3vGs?si=zplT5_sYPGD2w5wA
+Halfling
+
+https://youtu.be/8vnHJNjwuqg?si=x7k0dUWHGK6S3s8M
+Human
+
+https://youtu.be/Hhq-WxifYt0?si=Nf_SyumSyDToBqhH
+Dragonborn
+
+https://youtu.be/sZl0eJ7QcwE?si=O9P9bg0NlstOEFve
+Tieflings
