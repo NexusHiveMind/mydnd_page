@@ -7,3 +7,5 @@ Create a warming atmosphere, starting from the beginning, put low opacity images
 Use SQL lite for database? -> Non-sql probably better (Json type data)
 Web Server old PC? (container inside Ubuntu Server VB)
 Security?
+
+Play music in the background from: https://www.youtube.com/watch?v=d848GzuMtqk&t=3862s
