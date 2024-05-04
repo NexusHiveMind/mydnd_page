@@ -8,6 +8,15 @@ Use SQL lite for database? -> Non-sql probably better (Json type data)
 Web Server old PC? (container inside Ubuntu Server VB)
 Security?
 
+## Responsiveness
+A very common use of JavaScript is to dynamically modify HTML and CSS to update a user interface, via the DOM (Document Object Model) API
+
+
+## Graphics?
+Canvas and WebGL
+
+## Music
+HTMLMediaElement
 Play music in the background from: https://www.youtube.com/watch?v=d848GzuMtqk&t=3862s
 
 Races
