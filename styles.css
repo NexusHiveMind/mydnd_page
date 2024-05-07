@@ -23,7 +23,7 @@ h2{
 }
 
 p{
-    margin: 1em 0em;
+    margin: 1em 5px;
 }
 
 p, 
@@ -34,6 +34,7 @@ img{
 ul, 
 ol{
     padding-left: 2.5em;
+    margin-right: 5px;
 }
 
 button {
