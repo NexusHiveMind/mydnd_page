@@ -1,11 +1,19 @@
 "use strict";
 
+let new_user_name;
+let new_user_password;
+let current_user_name;
+let current_user_password;
 
-
-function add7 (number){
-  return (number + 7);
+function log_in (answer){
+  current_user_name = answer;
+  return;
 }
-console.log(add7(+prompt("give me a number")));
+
+
+
+log_in(prompt("Enter Username"));
+console.log(`Welcome ${current_user_name}`);
 
 
 
