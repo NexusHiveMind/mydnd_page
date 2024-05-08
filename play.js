@@ -2,6 +2,37 @@
 
 
 
+function add7 (number){
+  return (number + 7);
+}
+console.log(add7(+prompt("give me a number")));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 let new_user_name;
