@@ -26,10 +26,14 @@ p{
     margin: 1em 5px;
 }
 
-p, 
-img{
+p{
     padding: 0px 5px;
 }
+
+img{
+    padding: 0px 10px;
+}
+
 
 ul, 
 ol{
@@ -105,6 +109,13 @@ a{
     background-color: black;
     color: white;
     flex: 1 1 0;
+}
+
+#world_map {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 85vh;
 }
 
 /*Media Queries*/
