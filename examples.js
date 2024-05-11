@@ -1,19 +1,5 @@
 "use strict";
 
-let new_user_name;
-let new_user_password;
-let current_user_name;
-let current_user_password;
-
-function log_in (answer){
-  current_user_name = answer;
-  return;
-}
-
-
-
-log_in(prompt("Enter Username"));
-console.log(`Welcome ${current_user_name}`);
 
 
 
