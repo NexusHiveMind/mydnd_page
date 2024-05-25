@@ -16,3 +16,5 @@ function register (user,password){
   new_user_password = password;
   return;
 }
+
+/* Create a function that validates the login form with the aid of the e-mail check function */

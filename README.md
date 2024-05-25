@@ -11,6 +11,9 @@ Security?
 ## Responsiveness
 A very common use of JavaScript is to dynamically modify HTML and CSS to update a user interface, via the DOM (Document Object Model) API
 
+## DOM Manipulation
+Toggle display different parts of the tree of choices in character creator depending on choices made.
+
 
 ## Graphics?
 Canvas and WebGL
