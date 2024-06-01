@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Create new Character</title>
     <link rel="stylesheet" href="../styles.css">
+    <script src="../javascript.js" defer></script>
 </head>
 
 <body>
@@ -24,9 +25,12 @@
             <button>Register</button>         
         </span>
     </nav>
-    <ul>
-        <li>Orgrunn</li>
-        <li>Paikus Peikus</li>
+    <div>
+        <label for="item">Enter a new character name:</label>
+        <input type="text" name="item" id="item">
+        <button id="add_item">Add Character</button>
+      </div>
+    <ul class="character_list">
     </ul>
 </body>
 </html>
